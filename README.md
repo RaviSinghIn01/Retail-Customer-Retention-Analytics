@@ -69,5 +69,5 @@ Task 7: Final Dashboard & Executive Summary (20 Marks)
 ○ How to strengthen loyalty engagement?
 
 ## Screenshots
-https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/customer%20churn%20dashboard.PNG
+"https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/customer%20churn%20dashboard.PNG"
 
