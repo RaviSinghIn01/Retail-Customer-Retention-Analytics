@@ -71,10 +71,3 @@ Task 7: Final Dashboard & Executive Summary (20 Marks)
 ## Screenshots
 https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/customer%20churn%20dashboard.PNG
 
-https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/customer%20lifetime%20value%20analusis.PNG
-
-https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/promotion%20and%20loyality%20impact.PNG
-
-https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/regional%20and%20loyalty%20based%20purchase%20insights.PNG
-
-https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/store%20and%20channel%20performance%20vs%20retention.PNG
