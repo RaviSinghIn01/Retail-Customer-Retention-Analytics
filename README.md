@@ -69,5 +69,9 @@ Task 7: Final Dashboard & Executive Summary (20 Marks)
 ○ How to strengthen loyalty engagement?
 
 ## Screenshots
-(https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/main/customer%20churn%20dashboard.PNG)
+![image alt](https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/9ae402b33ecefc13013d71caca54d3eb5d380d30/customer%20churn%20dashboard.PNG)
+![image alt](https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/9ae402b33ecefc13013d71caca54d3eb5d380d30/customer%20lifetime%20value%20analusis.PNG)
+![image alt](https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/9ae402b33ecefc13013d71caca54d3eb5d380d30/promotion%20and%20loyality%20impact.PNG)
+![image alt](https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/9ae402b33ecefc13013d71caca54d3eb5d380d30/regional%20and%20loyalty%20based%20purchase%20insights.PNG)
+![image alt](https://github.com/RaviSinghIn01/Retail-Customer-Retention-Analytics/blob/9ae402b33ecefc13013d71caca54d3eb5d380d30/store%20and%20channel%20performance%20vs%20retention.PNG)
 
